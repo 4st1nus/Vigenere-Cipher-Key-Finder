@@ -1,6 +1,6 @@
 #!/bin/python
 
-print ("Vigenere Decypher\n")
+print ("Vigenere Decipher\n")
 print ("Text must be entered without Symbols or Space\n")
 
 plain = raw_input("Enter Known Text: ")
